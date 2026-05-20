@@ -6,22 +6,11 @@
 
 Dementia affects millions, yet early detection remains a significant challenge due to a lack of accessible and affordable screening tools. CogniCare aims to bridge this gap by leveraging the power of AI to analyze speech, cognitive performance, and behavioral patterns, providing an early-warning risk score that can empower individuals and clinicians to take timely action.
 
-## 👥 Meet the Team
-
-This project is brought to you by a dedicated team of innovators:
-
-- **Pulkit Pathak**
-- **Somya Aggarwal**
-- **Pratyusha Chaturvedi**
-- **Sarthak Chalia**
-- **Ishita Srivastava**
-- **Arpita Arora**
-
 ## 🎯 The Problem
 
 The onset of dementia is often subtle, with early signs being missed or mistaken for normal aging. Traditional diagnostic methods can be expensive, time-consuming, and require specialist visits, making them inaccessible to a large portion of the population, especially in remote areas. There is a critical need for a scalable, user-friendly screening tool that can be used at home.
 
-## ✨ Our Solution: CogniCare
+## ✨ Solution: CogniCare
 
 CogniCare is a mobile-first application that transforms a smartphone into a powerful tool for monitoring cognitive health. By engaging users in a series of simple tasks and passively analyzing behavioral markers, our AI model generates a comprehensive Dementia Risk Score (DRS).
 
