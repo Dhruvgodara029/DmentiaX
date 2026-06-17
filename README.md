@@ -1,6 +1,6 @@
 # DementiaX: AI-Powered Early-Stage Dementia Detection
 
-> A project for Smart India Hackathon, developed to provide an accessible, low-cost screening tool for the early detection of dementia using multi-modal AI analysis.
+Developed to provide an accessible, low-cost screening tool for the early detection of dementia using multi-modal AI analysis.
 
 ## 🌟 Our Vision
 
@@ -84,12 +84,5 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🙏 Acknowledgments
-
-- Smart India Hackathon for providing the platform to develop this solution
-- All contributors and supporters of this project
-- The open-source community for the amazing tools and libraries
-
----
 
 **Made with ❤️ for early dementia detection and cognitive health monitoring**
